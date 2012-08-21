@@ -22,5 +22,6 @@ Problem:
 
 read20filesobo.py - script of downloading files from hdfs to local dir (on master)
 BigProblem: need to know the names of the files "lfname = []" 
+
 Problem: 
  - need to know the names dir (and dirs) in hdfs
