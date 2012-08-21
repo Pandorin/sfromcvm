@@ -1,7 +1,7 @@
 sfromcvm
 ========
 
-files and scripts from CernVM
+files and scripts from CernVM(master stratuslab)
 
 hainstall.py - installation file hadoop hdfs in single-node mode
 
