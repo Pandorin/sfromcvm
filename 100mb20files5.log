@@ -1,0 +1,730 @@
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+Warning: $HADOOP_HOME is deprecated.
+
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+0
+== File 26b154e3b7.log was copied in 12.781771 seconds
+Aggregated write rate7.823642 MB/s
+1
+== File 26b154e3b7.log was copied in 17.778351 seconds
+== File fe2f4d5edc.log was copied in 19.618824 seconds
+Aggregated write rate10.721964 MB/s
+2
+== File ef2dd8ef16.log was copied in 22.738891 seconds
+== File 26b154e3b7.log was copied in 22.993344 seconds
+== File fe2f4d5edc.log was copied in 25.317850 seconds
+Aggregated write rate12.696619 MB/s
+3
+== File 85dadbc148.log was copied in 23.181924 seconds
+== File 26b154e3b7.log was copied in 26.015819 seconds
+== File fe2f4d5edc.log was copied in 31.179878 seconds
+== File ef2dd8ef16.log was copied in 31.589794 seconds
+Aggregated write rate14.530297 MB/s
+4
+== File fe2f4d5edc.log was copied in 29.801054 seconds
+== File 8628281bf6.log was copied in 34.223700 seconds
+== File 85dadbc148.log was copied in 34.671902 seconds
+== File ef2dd8ef16.log was copied in 35.461452 seconds
+== File 26b154e3b7.log was copied in 37.539894 seconds
+Aggregated write rate14.645514 MB/s
+5
+== File ef2dd8ef16.log was copied in 37.163955 seconds
+== File da7710dca9.log was copied in 40.539042 seconds
+== File 85dadbc148.log was copied in 40.755283 seconds
+== File 26b154e3b7.log was copied in 42.655681 seconds
+== File 8628281bf6.log was copied in 45.079324 seconds
+== File fe2f4d5edc.log was copied in 45.348201 seconds
+Aggregated write rate14.379031 MB/s
+6
+== File 8628281bf6.log was copied in 40.533290 seconds
+== File fe2f4d5edc.log was copied in 44.487023 seconds
+== File 26b154e3b7.log was copied in 47.685468 seconds
+== File da7710dca9.log was copied in 47.681061 seconds
+== File 85dadbc148.log was copied in 48.389345 seconds
+== File ef2dd8ef16.log was copied in 49.255699 seconds
+== File dc3f50d005.log was copied in 49.270215 seconds
+Aggregated write rate15.035714 MB/s
+7
+== File fe2f4d5edc.log was copied in 44.399383 seconds
+== File dc3f50d005.log was copied in 48.656951 seconds
+== File ef2dd8ef16.log was copied in 50.194501 seconds
+== File 8628281bf6.log was copied in 51.938644 seconds
+== File 26b154e3b7.log was copied in 54.565131 seconds
+== File 85dadbc148.log was copied in 54.920795 seconds
+== File da7710dca9.log was copied in 55.724434 seconds
+== File d97312cfa6.log was copied in 57.627054 seconds
+Aggregated write rate15.408404 MB/s
+8
+== File dc3f50d005.log was copied in 49.291026 seconds
+== File fe2f4d5edc.log was copied in 55.620104 seconds
+== File 26b154e3b7.log was copied in 56.433350 seconds
+== File 8628281bf6.log was copied in 58.570349 seconds
+== File da7710dca9.log was copied in 61.510376 seconds
+== File 5144aff427.log was copied in 61.832377 seconds
+== File d97312cfa6.log was copied in 62.213143 seconds
+== File 85dadbc148.log was copied in 64.297512 seconds
+== File ef2dd8ef16.log was copied in 64.362786 seconds
+Aggregated write rate15.265386 MB/s
+9
+== File 8628281bf6.log was copied in 60.262611 seconds
+== File f863c40246.log was copied in 61.025702 seconds
+== File d97312cfa6.log was copied in 63.609563 seconds
+== File 26b154e3b7.log was copied in 63.732872 seconds
+== File 5144aff427.log was copied in 66.140697 seconds
+== File da7710dca9.log was copied in 66.618914 seconds
+== File fe2f4d5edc.log was copied in 66.809251 seconds
+== File ef2dd8ef16.log was copied in 67.262373 seconds
+== File dc3f50d005.log was copied in 68.835747 seconds
+== File 85dadbc148.log was copied in 69.229890 seconds
+Aggregated write rate15.332911 MB/s
+10
+== File f863c40246.log was copied in 65.695846 seconds
+== File dc3f50d005.log was copied in 67.541067 seconds
+== File 26b154e3b7.log was copied in 72.567677 seconds
+== File 85dadbc148.log was copied in 76.266847 seconds
+== File fe2f4d5edc.log was copied in 76.776965 seconds
+== File 85f7007121.log was copied in 76.968439 seconds
+== File d97312cfa6.log was copied in 77.724759 seconds
+== File 5144aff427.log was copied in 78.054775 seconds
+== File ef2dd8ef16.log was copied in 78.479525 seconds
+== File da7710dca9.log was copied in 79.814595 seconds
+== File 8628281bf6.log was copied in 80.872871 seconds
+Aggregated write rate14.625037 MB/s
+11
+== File 85f7007121.log was copied in 73.44169Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+6 seconds
+== File fe2f4d5edc.log was copied in 73.710768 seconds
+== File da7710dca9.log was copied in 75.928800 seconds
+== File d97312cfa6.log was copied in 76.208621 seconds
+== File 26b154e3b7.log was copied in 77.931696 seconds
+== File 248678dbaa.log was copied in 77.907498 seconds
+== File 5144aff427.log was copied in 79.026162 seconds
+== File 8628281bf6.log was copied in 79.730818 seconds
+== File ef2dd8ef16.log was copied in 80.579584 seconds
+== File 85dadbc148.log was copied in 83.922639 seconds
+== File f863c40246.log was copied in 83.929167 seconds
+== File dc3f50d005.log was copied in 84.069200 seconds
+Aggregated write rate15.247421 MB/s
+12
+== File dc3f50d005.log was copied in 71.297160 seconds
+== File d97312cfa6.log was copied in 75.814587 seconds
+== File da7710dca9.log was copied in 77.525926 seconds
+== File 8628281bf6.log was copied in 80.942264 seconds
+== File 5144aff427.log was copied in 82.634510 seconds
+== File ef2dd8ef16.log was copied in 83.767175 seconds
+== File 574c6fc8c9.log was copied in 83.932731 seconds
+== File f863c40246.log was copied in 86.070986 seconds
+== File 26b154e3b7.log was copied in 88.365943 seconds
+== File 248678dbaa.log was copied in 88.354197 seconds
+== File 85dadbc148.log was copied in 88.777693 seconds
+== File 85f7007121.log was copied in 88.788113 seconds
+== File fe2f4d5edc.log was copied in 89.822308 seconds
+Aggregated write rate15.633584 MB/s
+13
+== File 85f7007121.log was copied in 73.660545 seconds
+== File 26b154e3b7.log was copied in 74.213568 seconds
+== File 85dadbc148.log was copied in 79.301344 seconds
+== File ef2dd8ef16.log was copied in 89.081868 seconds
+== File dc3f50d005.log was copied in 89.447276 seconds
+== File 8628281bf6.log was copied in 93.900226 seconds
+== File f863c40246.log was copied in 94.969947 seconds
+== File 1f7203689a.log was copied in 96.805641 seconds
+== File 574c6fc8c9.log was copied in 98.223218 seconds
+== File 248678dbaa.log was copied in 98.231450 seconds
+== File fe2f4d5edc.log was copied in 98.252621 seconds
+== File 5144aff427.log was copied in 98.247565 seconds
+== File da7710dca9.log was copied in 98.377538 seconds
+== File d97312cfa6.log was copied in 98.743599 seconds
+Aggregated write rate15.458447 MB/s
+14
+== File 8628281bf6.log was copied in 84.886828 seconds
+== File da7710dca9.log was copied in 93.572352 seconds
+== File 85f7007121.log was copied in 93.880828 seconds
+== File dc3f50d005.log was copied in 94.495144 seconds
+== File ef2dd8ef16.log was copied in 94.575416 seconds
+== File e1899cd235.log was copied in 95.640818 seconds
+== File 1f7203689a.log was copied in 98.365493 seconds
+== File 574c6fc8c9.log was copied in 98.535716 seconds
+== File 85dadbc148.log was copied in 100.166382 seconds
+== File 5144aff427.log was copied in 100.373382 seconds
+== File 248678dbaa.log was copied in 101.534475 seconds
+== File 26b154e3b7.log was copied in 103.178919 seconds
+== File d97312cfa6.log was copied in 103.337991 seconds
+== File f863c40246.log was copied in 103.370260 seconds
+== File fe2f4d5edc.log was copied in 103.777598 seconds
+Aggregated write rate15.351970 MB/s
+15
+== File f863c40246.log was copied in 92.893779 seconds
+== File 85f7007121.log was copied in 97.253398 seconds
+== File 1f7203689a.log was copied in 97.385969 seconds
+== File ef2dd8ef16.log was copied in 99.349948 seconds
+== File 248678dbaa.log was copied in 106.338465 seconds
+== File 85dadbc148.log was copied in 108.829934 seconds
+== File 5144aff427.log was copied in 108.829892 seconds
+== File 574c6fc8c9.log was copied in 108.848206 seconds
+== File e1899cd235.log was copied in 112.393727 seconds
+== File d97312cfa6.log was copied in 112.409001 seconds
+== File fe2f4d5edc.log was copied in 112.418258 seconds
+== File dc3f50d005.log was copied in 112.488527 seconds
+== File 8628281bf6.log was copied in 113.321994 seconds
+== File da7710dca9.log was copied in 113.866285 seconds
+== File 26b154e3b7.log was copied in 115.072334 seconds
+== File ed00a09552.log was copied in 115.756898 seconds
+Aggregated write rate14.886374 MB/s
+16
+== File 26b154e3b7.log was copied in 99.643820 seconds
+== File 248678dbaa.logWarning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+Warning: $HADOOP_HOME is deprecated.
+
+ was copied in 105.542509 seconds
+== File d97312cfa6.log was copied in 105.590122 seconds
+== File 5144aff427.log was copied in 108.720451 seconds
+== File 85f7007121.log was copied in 109.013572 seconds
+== File 6271102d14.log was copied in 109.174067 seconds
+== File f863c40246.log was copied in 109.767914 seconds
+== File 8628281bf6.log was copied in 109.963003 seconds
+== File dc3f50d005.log was copied in 109.961336 seconds
+== File fe2f4d5edc.log was copied in 110.390601 seconds
+== File da7710dca9.log was copied in 110.486470 seconds
+== File 85dadbc148.log was copied in 110.489277 seconds
+== File 1f7203689a.log was copied in 110.639533 seconds
+== File e1899cd235.log was copied in 110.938286 seconds
+== File ef2dd8ef16.log was copied in 113.574026 seconds
+== File 574c6fc8c9.log was copied in 113.556426 seconds
+== File ed00a09552.log was copied in 113.875767 seconds
+Aggregated write rate15.541532 MB/s
+17
+== File 1f7203689a.log was copied in 69.391437 seconds
+== File e1899cd235.log was copied in 97.256992 seconds
+== File d97312cfa6.log was copied in 100.668761 seconds
+== File 85f7007121.log was copied in 101.704398 seconds
+== File 5144aff427.log was copied in 102.537468 seconds
+== File ed00a09552.log was copied in 106.092122 seconds
+== File da7710dca9.log was copied in 112.031274 seconds
+== File 85dadbc148.log was copied in 112.262300 seconds
+== File 8628281bf6.log was copied in 113.709732 seconds
+== File f863c40246.log was copied in 114.409749 seconds
+== File fe2f4d5edc.log was copied in 117.172595 seconds
+== File 2a2a28512f.log was copied in 117.509636 seconds
+== File ef2dd8ef16.log was copied in 118.169252 seconds
+== File 6271102d14.log was copied in 118.341725 seconds
+== File 248678dbaa.log was copied in 118.709929 seconds
+== File dc3f50d005.log was copied in 119.421281 seconds
+== File 26b154e3b7.log was copied in 120.384090 seconds
+== File 574c6fc8c9.log was copied in 120.860666 seconds
+Aggregated write rate16.634120 MB/s
+18
+== File 85dadbc148.log was copied in 100.136936 seconds
+== File 8628281bf6.log was copied in 101.213298 seconds
+== File d97312cfa6.log was copied in 109.533740 seconds
+== File 85f7007121.log was copied in 110.920764 seconds
+== File ed00a09552.log was copied in 112.202748 seconds
+== File 3bdbcaab8d.log was copied in 112.332779 seconds
+== File fe2f4d5edc.log was copied in 112.383255 seconds
+== File 574c6fc8c9.log was copied in 112.702735 seconds
+== File e1899cd235.log was copied in 114.225506 seconds
+== File ef2dd8ef16.log was copied in 114.515902 seconds
+== File 248678dbaa.log was copied in 117.875056 seconds
+== File 26b154e3b7.log was copied in 121.409440 seconds
+== File 1f7203689a.log was copied in 122.814858 seconds
+== File da7710dca9.log was copied in 122.832051 seconds
+== File f863c40246.log was copied in 122.968697 seconds
+== File 6271102d14.log was copied in 123.159752 seconds
+== File 5144aff427.log was copied in 123.334289 seconds
+== File 2a2a28512f.log was copied in 124.268181 seconds
+== File dc3f50d005.log was copied in 125.164067 seconds
+Aggregated write rate16.448415 MB/s
+19
+== File 5144aff427.log was copied in 107.136568 seconds
+== File 26b154e3b7.log was copied in 116.786463 seconds
+== File ed00a09552.log was copied in 116.858708 seconds
+== File e1899cd235.log was copied in 116.921213 seconds
+== File 3bdbcaab8d.log was copied in 121.238182 seconds
+== File d97312cfa6.log was copied in 122.613447 seconds
+== File 248678dbaa.log was copied in 126.212618 seconds
+== File 2a2a28512f.log was copied in 126.214921 seconds
+== File 574c6fc8c9.log was copied in 126.375433 seconds
+== File fe2f4d5edc.log was copied in 127.287499 seconds
+== File 85f7007121.log was copied in 127.595392 seconds
+== File 8628281bf6.log was copied in 130.183489 seconds
+== File da7710dca9.log was copied in 131.059153 seconds
+== File f863c40246.log was copied in 131.582466 seconds
+== File a193fc3206.log was copied in 132.400251 seconds
+== File ef2dd8ef16.log was copied in 132.622504 seconds
+== File 85dadbc148.log was copied in 133.829838 seconds
+== File 1f7203689a.log was copied in 133.970504 seconds
+== File 6271102d14.log was copied in 134.723597 seconds
+== File dc3f50d005.log was copied in 134.912294 seconds
+Aggregated write rate15.863893 MB/s
+7.82364185434
+10.721964088
+12.696618983
+14.5302969632
+14.6455138182
+14.3790313905
+15.0357144531
+15.4084043117
+15.2653863436
+15.3329112147
+14.6250373638
+15.2474212936
+15.6335835958
+15.4584471688
+15.3519695151
+14.8863741517
+15.5415324673
+16.6341200268
+16.4484149206
+15.8638925011
